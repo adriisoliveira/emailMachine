@@ -1,0 +1,10 @@
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.Form1.resources
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.Properties.Resources.resources
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.GenerateResource.cache
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\aoliveira\source\repos\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
